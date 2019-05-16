@@ -1,0 +1,24 @@
+.cardHeader{
+    color: lightgrey;
+    text-transform: uppercase;
+}
+
+.right{
+    align-content: right;
+}
+
+.red{
+    background-color: #f44336
+}
+
+.orange{
+    background-color: #ff9800
+}
+
+.green{
+    background-color: #4caf50
+}
+
+.blue{
+    background-color: #2196f3
+}

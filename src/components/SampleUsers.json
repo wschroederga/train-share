@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Manu",
+        "percentage": 95,
+        "heart": 85,
+        "distance": 0.39,
+        "calories": 180
+    },
+    {
+        "name":"Eugi",
+        "percentage": 80,
+        "heart": 80,
+        "distance": 0.29,
+        "calories": 150
+    },
+    {
+        "name":"Cococho",
+        "percentage": 65,
+        "heart": 70,
+        "distance": 0.15,
+        "calories": 160
+    },    
+    {
+        "name":"Caro",
+        "percentage": 75,
+        "heart": 82,
+        "distance": 0.30,
+        "calories": 152
+    },
+    {
+        "name":"Magui",
+        "percentage": 40,
+        "heart": 83,
+        "distance": 0.39,
+        "calories": 188
+    },    
+    {
+        "name":"Dany",
+        "percentage": 50,
+        "heart": 80,
+        "distance": 0.19,
+        "calories": 130
+    }    
+]
